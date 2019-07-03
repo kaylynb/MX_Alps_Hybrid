@@ -1,0 +1,22 @@
+{
+  "name": "mx_alps_hybrid",
+  "version": "1.0.0",
+  "description": "KiCad Libraries of keyboard switch footprints",
+  "main": "addSilkscreen.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kaylynb/MX_Alps_Hybrid.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kaylynb/MX_Alps_Hybrid/issues"
+  },
+  "homepage": "https://github.com/kaylynb/MX_Alps_Hybrid#readme",
+  "dependencies": {
+    "glob": "^7.1.4"
+  }
+}

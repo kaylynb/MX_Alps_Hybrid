@@ -1,6 +1,8 @@
 # MX_Alps_Hybrid
 KiCad Libraries of keyboard switch footprints
 
+## This branch has the key outline added to the silkscreen
+
 ![Footprint Image](https://raw.githubusercontent.com/ai03-2725/MX_Alps_Hybrid.pretty/master/Screenshots/Footprint.png)  
 
 ### Included Libraries
